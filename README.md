@@ -19,14 +19,3 @@ This repository is a structured log of my learning path. It contains daily code 
 * **Environment:** Jupyter Notebooks, VS Code, Google Colab
 
 ---
-
-## 📂 Repository Structure
-
-```text
-.
-├── Day01/
-│   ├── notes.md          # Key concepts learned
-│   └── practice.ipynb    # Code implementation
-├── Day02/
-│   └── ...
-└── README.md             # This file
