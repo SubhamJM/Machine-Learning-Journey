@@ -13,7 +13,7 @@ This repository is a structured log of my learning path. It contains daily code 
 
 | Day | Topic | Key Learnings | Code Link |
 | :--- | :--- | :--- | :--- |
-| **01** | Python Fundamentals | NumPy arrays & Pandas DataFrames | [View](./) |
+| **01** | Python Fundamentals | NumPy arrays & Pandas DataFrames | [View](./Mini Projects) |
 | **02** | Data Exploration | EDA, Matplotlib, and Seaborn | [View](./Day02) |
 | **03** | Linear Regression | Cost Functions & Gradient Descent | [View](./Day03) |
 | **04** | Classification | Logistic Regression & Decision Trees | [View](./Day04) |
